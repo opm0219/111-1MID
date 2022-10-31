@@ -24,6 +24,33 @@ namespace _111_1MID
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
+        /// Bottom1 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Bottom1;
+
+        /// <summary>
+        /// rb_Id 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton rb_Id;
+
+        /// <summary>
+        /// rb_Hid 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton rb_Hid;
+
+        /// <summary>
         /// Botton1 控制項。
         /// </summary>
         /// <remarks>
@@ -40,5 +67,41 @@ namespace _111_1MID
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Panel p1_Info;
+
+        /// <summary>
+        /// tb_Account 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_Account;
+
+        /// <summary>
+        /// TextBox1 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+
+        /// <summary>
+        /// tb_Phone 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_Phone;
+
+        /// <summary>
+        /// btn_Submit 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_Submit;
     }
 }
