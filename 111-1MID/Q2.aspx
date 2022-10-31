@@ -11,7 +11,9 @@
     <form id="form1" runat="server">
         <div>      
              <h2 id="tb_Num">紀錄編號:<asp:TextBox runat="server"></asp:TextBox></h2>
-             <h3>聯絡方式: <asp:RadioButton runat="server" Text="手機"></asp:RadioButton><asp:RadioButton ID="RadioButton1" runat="server" Text="市話" /><asp:RadioButton ID="RadioButton2" runat="server" /><h3>
+             <h3>聯絡方式: <asp:RadioButton runat="server" Text="手機">
+             </asp:RadioButton><asp:RadioButton ID="RadioButton1" runat="server" Text="市話" />
+             <asp:RadioButton ID="RadioButton2" runat="server" /><h3>
 
         </div>
     </form>
