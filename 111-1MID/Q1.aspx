@@ -10,7 +10,6 @@
 <body><h2>||個人資訊</h2>
     <form id="form1" runat="server">
         <div aria-invalid="false">
-            <h3><asp:Label ID="Bottom1" runat="server" Text="初診"></h3>
             <asp:RadioButton ID="rb_Id" runat="server" GroupName="rb_Type" Checked="True" Text="身分證字號" />
             <asp:RadioButton ID="rb_Hid" runat="server" Checked="True" GroupName="rb_Type" Text="病歷號" />
             <asp:Button ID="Botton1" runat="server" Text="掛號" /><asp:Panel ID="p1_Info" runat="server" BorderWidth="1px" Width="500px"></asp:Panel>
